@@ -1,0 +1,2 @@
+# champion-kidney-disease-analysis-batch-2
+One the main factor that I did this project is to identify the main cause of the disease and analysis the cause. Kidney disease can affect your body’s ability to clean our blood, filter extra water out of our blood, and help control your blood pressure. It can also affect red blood cell production and vitamin D metabolism needed for bone health. Kidney Problems • Kidney stones • Chronic kidney disease.
